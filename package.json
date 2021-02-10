@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/carkovaHexlet/backend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/carkovaHexlet/backend-project-lvl1#readme"
+  "homepage": "https://github.com/carkovaHexlet/backend-project-lvl1#readme",
+  "dependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint-plugin-jest": "^24.1.3"
+  }
 }
